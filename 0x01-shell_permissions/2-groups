@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -D: -f1 /etc/group | sort
